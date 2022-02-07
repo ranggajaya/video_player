@@ -44,7 +44,7 @@ class _MyHomePageState extends State<MyHomePage> {
         body: AspectRatio(
           aspectRatio: 16 / 9,
           child: BetterPlayer.network(
-                  'https://flutter.github.io/assets-for-api-docs/assets/videos/butterfly.mp4',
+                  'https://mybam1804.000webhostapp.com/videoPlayer/video1.mp4',
                   betterPlayerConfiguration: BetterPlayerConfiguration(
                   aspectRatio: 16 / 9,
           ),
